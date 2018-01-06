@@ -35,6 +35,9 @@ npm run dev
 
 ```
 
+## 项目效果图
+<img src="https://github.com/WuChenDi/vue-shop/blob/master/screenshots/index.png" width="1182" height="892"/>
+
 
 # 说明
 
