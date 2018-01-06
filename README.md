@@ -42,6 +42,6 @@ npm run dev
 <img src="https://github.com/WuChenDi/vue-shop/blob/master/screenshots/analysis.png" width="1182" height="892"/>
 <img src="https://github.com/WuChenDi/vue-shop/blob/master/screenshots/bankChooser.png" width="1182" height="892"/>
 <img src="https://github.com/WuChenDi/vue-shop/blob/master/screenshots/checkOrder.png" width="1182" height="892"/>
-<img src="https://github.com/WuChenDi/vue-shop/blob/master/screenshots/orderList.png" width="1182" height="892"/>
+<img src="https://github.com/WuChenDi/vue-shop/blob/master/screenshots/orderList.png" width="1182" height="680"/>
 
 
