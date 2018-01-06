@@ -35,6 +35,16 @@ npm run dev
 
 ```
 
+## 总结
+- 了解vue - 数据渲染、前端模块化、路由
+- 熟悉VueJs的接口功能 - 指令的用法、选项的用法
+- 了解vue组件 - 组件的交互
+- 了解vue工程化方案 - 单文件组件Webpack测试数据
+- vue项目的搭建流程
+- 使用Ajax请求后端数据
+- 组件的设计与交互
+- 路由和子路由(嵌套路由的通信)
+
 ## 项目效果图
 <img src="https://github.com/WuChenDi/vue-shop/blob/master/screenshots/index.png" width="1182" height="892"/>
 <img src="https://github.com/WuChenDi/vue-shop/blob/master/screenshots/login.png" width="1182" height="892"/>
