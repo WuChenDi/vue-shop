@@ -43,7 +43,7 @@ npm run dev
 - vue项目的搭建流程
 - 使用Ajax请求后端数据
 - 组件的设计与交互
-- 路由和子路由(嵌套路由的通信)
+- 路由和子路由(嵌套路由通信)
 
 ## 项目效果图
 <img src="https://github.com/WuChenDi/vue-shop/blob/master/screenshots/index.png" width="1182" height="892"/>
