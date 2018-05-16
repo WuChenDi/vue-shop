@@ -1,7 +1,5 @@
 # 基于Vue2.0 + vue-router + webpack + ES6/7 + nodejs + express 实现web端购物商城网站
 
-[vuejs](https://vuejs.org/)初学（WuChenDi）
-
 
 ## 前端构架
 ***
