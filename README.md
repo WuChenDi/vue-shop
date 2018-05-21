@@ -22,7 +22,7 @@
 
 ## 项目运行
 ***
-通过npm安装本地服务第三方依赖模块(需要已安装[Node.js](https://nodejs.org/))
+通过npm安装本地服务第三方依赖模块(需要已安装[Node.js](https://nodejs.org/ "nodejs"))
 #### 注意：由于涉及大量的 ES6/7 等新属性，node 需要 6.0 以上版本 
 ```
 cd vue-shop
@@ -53,3 +53,4 @@ npm run dev
 <img src="https://github.com/WuChenDi/vue-shop/blob/master/screenshots/orderList.png" width="1182" height="680"/>
 
 
+## 项目布局
