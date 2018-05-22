@@ -43,6 +43,57 @@ npm run dev
 - 组件的设计与交互
 - 路由和子路由(嵌套路由通信)
 
+## 目录结构
+
+```
+.
+├── build
+├── config
+├── screenshots
+├── src
+│   ├── assets
+│   │   ├── banks
+│   │   ├── images
+│   │   └── slideShow
+│   ├── components
+│   │   ├── base
+│   │   │   ├── chooser.vue
+│   │   │   ├── counter.vue
+│   │   │   ├── datepicker.vue
+│   │   │   ├── dialog.vue
+│   │   │   ├── multiplyChooser.vue
+│   │   │   └── selection.vue
+│   │   ├── bankChooser.vue
+│   │   ├── checkOrder.vue
+│   │   ├── HelloWorld.vue
+│   │   ├── layout.vue
+│   │   ├── logForm.vue
+│   │   ├── regForm.vue
+│   │   └── slideShow.vue
+│   ├── pages
+│   │   ├── detail
+│   │   │   ├── analysis.vue
+│   │   │   ├── count.vue
+│   │   │   ├── forecast.vue
+│   │   │   └── publish.vue
+│   │   ├── detail.vue
+│   │   ├── index.vue
+│   │   └── orderList.vue
+│   ├── App.vue
+│   └── main.js
+├── static
+│   └── .gitkeep
+├── .babelrc
+├── .editorconfig
+├── .gitgnore
+├── .postcssrc.js
+├── db.json
+├── index.html
+├── package.json
+└── README.md
+.
+```
+
 ## 项目效果图
 <img src="https://github.com/WuChenDi/vue-shop/blob/master/screenshots/index.png" width="1182" height="892"/>
 <img src="https://github.com/WuChenDi/vue-shop/blob/master/screenshots/login.png" width="1182" height="892"/>
@@ -53,4 +104,4 @@ npm run dev
 <img src="https://github.com/WuChenDi/vue-shop/blob/master/screenshots/orderList.png" width="1182" height="680"/>
 
 
-## 项目布局
+
