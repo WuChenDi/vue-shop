@@ -95,7 +95,8 @@ npm run dev
 ```
 
 ## 项目效果图
-![](https://github.com/WuChenDi/vue-shop/blob/master/screenshots/index.png)
+![](/screenshots/index.png)
+<!-- ![](https://github.com/WuChenDi/vue-shop/blob/master/screenshots/index.png) -->
 ![](https://github.com/WuChenDi/vue-shop/blob/master/screenshots/login.png)
 ![](https://github.com/WuChenDi/vue-shop/blob/master/screenshots/about.png)
 ![](https://github.com/WuChenDi/vue-shop/blob/master/screenshots/analysis.png)
